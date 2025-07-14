@@ -4,7 +4,7 @@ This is a fully responsive **Portfolio Website** built using **HTML**, **CSS**, 
 
 ## 🌐 Live Demo
 
-*(Replace this with your actual Netlify or GitHub Pages link)*
+
 (Github link) https://github.com/dipeshkumar6465/portfolio-website
 ---
 
